@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Abstractas</string>
+    <string name="lado">Lado</string>
+    <string name="btnCalcular">Calcular</string>
+
+    <string name="base">Base</string>
+    <string name="altura">Altura</string>
+
+    <string name="btnejecutar">Ir a Triangulo</string>
+    <string name="btnejecutar1">Ir a Cuadrado</string>
+
+</resources>
